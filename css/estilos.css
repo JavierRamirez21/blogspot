@@ -12,6 +12,14 @@ body{
     text-align: center;
     font-family: Helvetica, sans-serif;
 }
+#cabecera{
+    background-color: rgb(92, 152, 2);
+    color: white;
+    margin: 0;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
 #container{
     width: 70%;
     padding: 1rem;
