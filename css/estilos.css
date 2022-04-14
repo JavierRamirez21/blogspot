@@ -36,3 +36,10 @@ body{
 #container p{
     font-size: 1.6rem;
 }
+#footer{
+text-align:center;
+color: white;
+background:gray;
+padding: 1.6rem 0.5rem;
+font-size: 2rem;
+}
